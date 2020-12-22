@@ -1,7 +1,6 @@
 name,parent
 master,null
 A,master
-B,master
+B,master,C,E,D
 C,A
 D,C
-B,C,D,E,D
